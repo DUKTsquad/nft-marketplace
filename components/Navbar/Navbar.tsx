@@ -30,6 +30,9 @@ export function Navbar() {
             <Link href="/sell" className={styles.link}>
               Sell
             </Link>
+            <Link href="https://shynz.net/launchpad/app-launchpad/" className={styles.link}>
+              App Launchpad
+            </Link>
           </div>
         </div>
 

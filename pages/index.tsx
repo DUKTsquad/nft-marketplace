@@ -62,7 +62,7 @@ const Home: NextPage = () => {
                 </Link>
                 <Link
                   className={styles.secondaryCta}
-                  href="https://shynz.net"
+                  href="https://shynz.net/launchpad/app-launchpad/"
                   target="_blank"
                 >
                   Back to SHYNZ
